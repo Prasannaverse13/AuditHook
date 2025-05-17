@@ -1,0 +1,26 @@
+[
+  {
+    "contractId": "0xf84F99b118364347d3656520cF0081cc8E7fe349",
+    "bytecodeFileId": "0x1a2b3c4d5e6f7g8h9i",
+    "initialValue": "0",
+    "deployedBy": "0x123456789abcdef123456789abcdef12345678",
+    "deployedAt": "2025-05-10T14:30:00.000Z",
+    "network": "base-testnet",
+    "contractLinks": {
+      "viewOnBlockExplorer": "https://testnet.basescan.org/address/0xf84F99b118364347d3656520cF0081cc8E7fe349",
+      "evmAddress": "0xf84F99b118364347d3656520cF0081cc8E7fe349"
+    }
+  },
+  {
+    "contractId": "0x9876543210abcdef9876543210abcdef98765432",
+    "bytecodeFileId": "0x9i8h7g6f5e4d3c2b1a",
+    "initialValue": "100",
+    "deployedBy": "0x123456789abcdef123456789abcdef12345678",
+    "deployedAt": "2025-05-15T10:15:00.000Z",
+    "network": "base-testnet",
+    "contractLinks": {
+      "viewOnBlockExplorer": "https://testnet.basescan.org/address/0x9876543210abcdef9876543210abcdef98765432",
+      "evmAddress": "0x9876543210abcdef9876543210abcdef98765432"
+    }
+  }
+]
