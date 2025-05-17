@@ -108,7 +108,3 @@ AuditHook integrates with several key resources:
 - [Smart Wallet Development](https://smartwallet.dev/) - For wallet integration resources
 - [Base.org](https://www.base.org/getstarted) - For general Base network resources
 - [Coinbase Developer Platform](https://docs.cdp.coinbase.com/) - For additional integration resources
-
-## License
-
-This project is licensed under the MIT License. See the LICENSE file for details.
