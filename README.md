@@ -1,6 +1,6 @@
 # AuditHook: Smart Contract Security Analysis Platform
 
-AuditHook is an advanced AI-powered smart contract auditing platform that combines cutting-edge technology with user-friendly design to enhance blockchain security and developer education. Built for the Base network and optimized for Uniswap v4 hooks, AuditHook empowers developers to create more secure DeFi applications.
+AuditHook is an advanced AI-Agent smart contract auditing platform that combines cutting-edge technology with user-friendly design to enhance blockchain security and developer education. Built for the Base network and optimized for Uniswap v4 hooks, AuditHook empowers developers to create more secure DeFi applications.
 
 ## Key Features
 
